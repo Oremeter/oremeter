@@ -7,7 +7,7 @@
 **Here's a quick summary about me**:
 
 - Firstly First I AM A NEWBIE AND OPEN TO CORRECTION
-- 😊 Pronouns: He/him
+
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning JavaScript, Python and Cloud Engineering.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
